@@ -1,0 +1,23 @@
+@charset "utf-8";
+.container header nav  {
+    background-color: #5DB8D3;
+}
+.container #hero {
+    background-image: url(images/20307105145959451003da.jpg);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(90,130,183,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(90,130,183,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(90,130,183,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(90,130,183,1.00) 0%,rgba(255,255,255,1.00) 100%);
+
+}
+.container .banner {
+    background-image: url(images/20307105145959451003da.jpg);
+}
+.container #contact {
+    background-image: url(images/20307105145959451003da.jpg);
+}
+.container .copyright {
+    background-color: rgba(93,184,211,1.00);
+}
